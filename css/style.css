@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-image: url('css.png');
+}
+.one{
+    background-color: aqua;
+    color: blue
+
+}
+
+body {
+    background-image: url("css.png");
+    background-color: #cccccc;
+   }
